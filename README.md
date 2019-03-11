@@ -1,6 +1,6 @@
 ## Project 1
 
-### Scope:
+### Business Case:
 
 #### You are an analyst at a "scrappy" online gaming company that specializes in remakes of last year's fads.
 
