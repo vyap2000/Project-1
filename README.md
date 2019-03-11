@@ -1,4 +1,6 @@
-Project Statement:
+# Project 1
+
+Project Scope:
 
 You are an analyst at a "scrappy" online gaming company that specializes in remakes of last year's fads.
 
